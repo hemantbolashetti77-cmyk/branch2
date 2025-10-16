@@ -1,6 +1,6 @@
 name=input("enter the name")
 usn=input("enter the usn")
-usn=input("enter the subject")
+sub=input("enter the subject")
 print(f"Name:{name}")
 print(f"usn:{usn}")
 print(f"subject:{sub}")
